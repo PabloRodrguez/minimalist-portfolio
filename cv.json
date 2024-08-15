@@ -1,0 +1,333 @@
+{
+  "basics": {
+    "name": "Pablo Javier Rodríguez",
+    "label": "Full Stack Developer con más de 4 años de experiencia & Creador de Contenido de Programación",
+    "image": "/me.jpeg",
+    "email": "pblsepulveda67@gmail.com",
+    "phone": "+569 84977614",
+    "url": "",
+    "summary": "+4 años de experiencia como Desarrollador Web.Actualmente soy desarrollador Freelance Vivo en San Carlos, Chile. He trabajado en diferentes entornos y proyectos, desde aplicaciones web hasta aplicaciones móviles ",
+    "location": {
+      "address": "",
+      "postalCode": "3480000",
+      "city": "San Carlos",
+      "countryCode": "CL",
+      "region": "Chile"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Pablo Rodríguez",
+        "url": "https://www.linkedin.com/in/pablo-javier-rodr%C3%ADguez-rodr%C3%ADguez-6336a4177/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Pablo Rodríguez",
+        "url": "https://github.com/PabloRodrguez"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Desarrollo Freelance",
+      "position": "Full Stack Developer",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "summary": "Desarrollo de aplicaciones web y móviles, utilizando tecnologías como React, Python, Java, Next.js, Node.js, Express, MongoDB, MySQL, Google Firebase entre otras",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Universidad del Bio-Bio",
+      "position": "Full Stack Developer",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2024-09-01",
+      "summary": "Parte de un equipo multidisiplinario, desarrollando programas para facilitar la investigación y realización de una RSL orientada al estudio de la efectividad de cursos online y el diseño de un boceto de estos.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Universidad del Bio-Bio",
+      "position": "Full Stack Developer",
+      "startDate": "2022-03-01",
+      "endDate": "2023-05-01",
+      "summary": "Unico miembro de un equipo de desarrollo, encargado de la creación de la mantención de la página web de la RUPI (red universitaria por la infancia).",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universitad del Bio-Bio",
+    "url": "https://www.ubiobio.cl/w/",
+    "area": "Ingeniero civil en informática",
+    "studyType": "Bachelor",
+    "startDate": "2019-01-02",
+    "endDate": "2024-01-02",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Lenguaje de Programación"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Lenguaje de Programación"
+      ]
+    },
+    {
+      "name": "Docker", 
+      "level": "Avanzado",
+      "keywords": [
+        "Contenedores", "Despliegue", "Infraestructura"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Agrocomercial Mutupin",
+      "isActive": true,
+      "description": "Aplicación web para la gestión de ventas y productos de una empresa de la región.",
+      "highlights": [
+        "Gestión de productos",
+        "Gestión de ventas",
+        "Gestión de usuarios",
+        "en desarrollo"
+      ],
+      "url": ""
+    },
+    {
+      "name" :"Agrocomercial Mutupin",
+      "isActive": true,
+      "description": "Página web para empresa de la región de ñuble.",
+      "highlights": [
+        "Landing page",
+        "Contacto",
+        "en desarrollo"
+      ],
+      "url": ""
+    },
+    {
+      "name": "TeAPP",
+      "isActive": true,
+      "description": "Aplicación móvil multiplaforma, juego serio para desarrollar habilidades sociales en estudiantes con TEA.",
+      "highlights": [
+        "Desarrollo de habilidades sociales",
+        "Desarrollo Móvil",
+        "Desarrollo Multiplataforma",
+        "en desarrollo"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Arkanoid clon",
+      "isActive": true,
+      "description": "Clon del juego Arkanoid, desarrollado en tecnologías nativas de web.",
+      "highlights": [
+        "Desarrollo de videojuegos",
+        "Desarrollo Web",
+        "en desarrollo"
+      ],
+      "url": "https://arkanoid-jaycitom-v2.netlify.app/"
+    },
+    {
+      "name" : "Color Picker",
+      "isActive": true,
+      "description": "Aplicación web para la selección de colores. Desarrollado en React y TailwindCSS.",
+      "highlights": [
+        "Desarrollo Web",
+        "Frontend",
+        "en desarrollo"
+      ],
+      "url": "https://color-picker-jaycitom.netlify.app/"
+    },
+    {
+      "name": "Farmacias de Turno",
+      "isActive": true,
+      "description": "Aplicación web para la visualización de farmacias de turno en territorio nacional, filtrando por región.",
+      "highlights": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Consumo de APIs",
+        "en desarrollo"
+      ],
+      "url": "https://farmacias-de-turno-jaycitom.netlify.app/"
+    },
+    {
+      "name": "Rivas y Belmar",
+      "isActive": true,
+      "description": "Página web para empresa de la región Bio-bio.",
+      "highlights": [
+        "Landing page",
+        "Contacto",
+        "en desarrollo"
+      ],
+      "url": "https://www.rivasybelmar.cl/"
+    },
+    {
+      "name" : "Generador de contraseñas",
+      "isActive": true,
+      "description": "Aplicación web para la generación de contraseñas seguras.",
+      "highlights": [
+        "Desarrollo Web",
+        "Frontend",
+        "en desarrollo"
+      ],
+      "url": "https://jaycitom-password-generator.netlify.app/"
+
+    },
+    {
+      "name" : "TierMaker",
+      "isActive": true,
+      "description": "Aplicación web para la creación de listas de tier.",
+      "highlights": [
+        "Desarrollo Web",
+        "Frontend",
+        "en desarrollo"
+      ],
+      "url": "https://jaycitom-tierlistmaker.netlify.app/"
+    }
+  ]
+}
