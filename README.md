@@ -20,10 +20,6 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 <p></p>
 
-
-
-<img src="portada.png"></img>
-
 ## 🛠️ Stack
 
 - [**Astro**](https://astro.build/) - El framework web de la nueva época.
